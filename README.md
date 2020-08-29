@@ -1,5 +1,5 @@
 # to do
- 
+A Hands-On Introduction to Data Science by Chirag Shah  
 # doing
 C++ Primer 5th Edition  
 A Tour of C++ p.79  
