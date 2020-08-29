@@ -1,4 +1,4 @@
-# todo
+# to do
  
 # doing
 C++ Primer 5th Edition  
