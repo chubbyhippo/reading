@@ -1,5 +1,6 @@
 # to do
 A Hands-On Introduction to Data Science by Chirag Shah  
+https://www.kaggle.com/learn/overview  
 # doing
 https://flutter.dev/docs/get-started/codelab  
 https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#5  
