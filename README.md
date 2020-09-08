@@ -1,5 +1,6 @@
 # to do
 A Hands-On Introduction to Data Science by Chirag Shah  
+https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
 # doing
 https://flutter.dev/docs/development/ui/navigation   
