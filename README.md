@@ -1,4 +1,6 @@
 # to do
+Full Stack Development with JHipster  
+Modern C++ for Absolute Beginners  
 A Hands-On Introduction to Data Science by Chirag Shah  
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
