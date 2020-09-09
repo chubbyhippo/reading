@@ -6,8 +6,9 @@ https://www.kaggle.com/learn/overview
 https://flutter.dev/docs/development/ui/navigation   
 https://flutter.dev/docs/cookbook/navigation  
 Carnivore Code p.51  
+# done
+# on hold
 C++ Primer 5th Edition p.75  
 A Tour of C++ p.79  
 C++ programming language p.37  
-# done
 
