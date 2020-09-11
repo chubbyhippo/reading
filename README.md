@@ -1,6 +1,7 @@
 # to do
 Full Stack Development with JHipster  
 A Hands-On Introduction to Data Science by Chirag Shah  
+https://trevorhastie.github.io/ISLR/  
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
 # doing
