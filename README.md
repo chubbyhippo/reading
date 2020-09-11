@@ -5,7 +5,7 @@ https://mml-book.github.io/
 https://www.kaggle.com/learn/overview  
 # doing
 https://flutter.dev/docs/development/ui/navigation   
-https://flutter.dev/docs/cookbook/navigation/navigate-with-arguments  
+https://flutter.dev/docs/cookbook/navigation/returning-data  
 Carnivore Code p.74  
 Modern C++ for Absolute Beginners p.53  
 # done
