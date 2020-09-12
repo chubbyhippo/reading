@@ -7,7 +7,7 @@ https://www.kaggle.com/learn/overview
 # doing
 https://flutter.dev/docs/development/ui/navigation   
 https://flutter.dev/docs/cookbook/navigation/passing-data  
-Carnivore Code p.74  
+Carnivore Code p.99  
 Modern C++ for Absolute Beginners p.53  
 # done
 # on hold
