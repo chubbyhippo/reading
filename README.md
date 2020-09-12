@@ -5,7 +5,7 @@ https://trevorhastie.github.io/ISLR/
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
 # doing
-https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial  
+https://reactjs.org/tutorial/tutorial.html#completing-the-game  
 https://flutter.dev/docs/development/ui/navigation   
 https://flutter.dev/docs/cookbook/navigation/passing-data  
 Carnivore Code p.99  
