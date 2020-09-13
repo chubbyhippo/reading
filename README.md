@@ -8,7 +8,7 @@ https://www.kaggle.com/learn/overview
 https://reactjs.org/tutorial/tutorial.html#completing-the-game  
 https://flutter.dev/docs/development/ui/navigation   
 https://flutter.dev/docs/cookbook/navigation/passing-data  
-Carnivore Code p.99  
+Carnivore Code p.117  
 Modern C++ for Absolute Beginners p.53  
 # done
 # on hold
