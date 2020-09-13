@@ -1,5 +1,4 @@
 # to do
-Building Microservices  
 Monolith to Microservices  
 Building Event-Driven Microservices  
 Full Stack Development with JHipster  
@@ -11,6 +10,7 @@ https://www.kaggle.com/learn/overview
 https://reactjs.org/tutorial/tutorial.html#completing-the-game  
 https://flutter.dev/docs/development/ui/navigation   
 https://flutter.dev/docs/cookbook/navigation/passing-data  
+Building Microservices p.35    
 Carnivore Code p.117  
 Modern C++ for Absolute Beginners p.53  
 # done
