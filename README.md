@@ -10,7 +10,7 @@ https://www.kaggle.com/learn/overview
 https://reactjs.org/tutorial/tutorial.html#completing-the-game  
 https://flutter.dev/docs/development/ui/animations    
 Building Microservices p.80    
-Carnivore Code p.119  
+Carnivore Code p.125  
 Modern C++ for Absolute Beginners p.53  
 # done
 # on hold
