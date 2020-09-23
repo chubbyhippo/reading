@@ -1,12 +1,12 @@
 # to do
 Monolith to Microservices  
 Building Event-Driven Microservices  
-Full Stack Development with JHipster  
 A Hands-On Introduction to Data Science by Chirag Shah  
 https://trevorhastie.github.io/ISLR/  
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
 # doing
+Full Stack Development with JHipster p.19   
 https://reactjs.org/tutorial/tutorial.html#completing-the-game  
 https://flutter.dev/docs/development/ui/animations    
 Building Microservices p.80    
