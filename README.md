@@ -6,7 +6,7 @@ https://trevorhastie.github.io/ISLR/
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
 # doing
-Full Stack Development with JHipster p.32   
+Full Stack Development with JHipster p.66   
 https://reactjs.org/tutorial/tutorial.html#completing-the-game  
 https://flutter.dev/docs/development/ui/animations    
 Building Microservices p.80    
