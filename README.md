@@ -10,7 +10,7 @@ Full Stack Development with JHipster p.66
 https://reactjs.org/tutorial/tutorial.html#completing-the-game  
 https://flutter.dev/docs/development/ui/animations    
 Building Microservices p.80    
-Lies My Doctor Told Me p.29  
+Lies My Doctor Told Me p.63  
 Modern C++ for Absolute Beginners p.53  
 # done
 Carnivore Code  
