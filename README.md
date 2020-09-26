@@ -6,7 +6,7 @@ https://trevorhastie.github.io/ISLR/
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
 # doing
-https://docs.djangoproject.com/en/3.1/intro/tutorial01/  
+https://docs.djangoproject.com/en/3.1/intro/tutorial02/  
 https://reactjs.org/tutorial/tutorial.html#completing-the-game  
 https://flutter.dev/docs/development/ui/animations    
 Building Microservices p.80    
