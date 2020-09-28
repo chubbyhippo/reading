@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/3.1/intro/tutorial03/
 https://reactjs.org/tutorial/tutorial.html#completing-the-game  
 https://flutter.dev/docs/development/ui/animations    
 Building Microservices p.80    
-Lies My Doctor Told Me p.84  
+Lies My Doctor Told Me p.106  
 Modern C++ for Absolute Beginners p.53  
 # done
 Carnivore Code  
