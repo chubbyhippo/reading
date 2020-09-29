@@ -1,5 +1,4 @@
-# to do  
-Don't Make Me Think Revisited    
+# to do    
 Monolith to Microservices  
 Building Event-Driven Microservices  
 A Hands-On Introduction to Data Science by Chirag Shah  
@@ -14,6 +13,7 @@ The Plant Paradox p.34
 Building Microservices p.80      
 Modern C++ for Absolute Beginners p.53  
 https://www.examword.com/  
+Don't Make Me Think Revisited p.51     
 # done
 Carnivore Code  
 Lies My Doctor Told Me  
