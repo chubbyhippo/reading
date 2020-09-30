@@ -8,12 +8,11 @@ https://www.kaggle.com/learn/overview
 # doing
 https://docs.djangoproject.com/en/3.1/intro/tutorial03/  
 https://reactjs.org/tutorial/tutorial.html#completing-the-game  
-https://flutter.dev/docs/development/ui/animations   
 The Plant Paradox p.34  
 Building Microservices p.80      
-Modern C++ for Absolute Beginners p.53  
 Don't Make Me Think Revisited p.67  
 Easy English! Top 50 Grammar Mistakes How to Avoid Them p.4   
+https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 # done
 Carnivore Code  
 Lies My Doctor Told Me  
@@ -21,4 +20,5 @@ Lies My Doctor Told Me
 C++ Primer 5th Edition p.75  
 A Tour of C++ p.79  
 C++ programming language p.37  
+Modern C++ for Absolute Beginners p.53  
 
