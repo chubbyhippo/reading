@@ -8,7 +8,7 @@ https://www.kaggle.com/learn/overview
 # doing
 https://docs.djangoproject.com/en/3.1/intro/tutorial03/  
 https://reactjs.org/tutorial/tutorial.html#completing-the-game  
-The Plant Paradox p.34  
+The Plant Paradox p.40  
 Building Microservices p.80      
 Don't Make Me Think Revisited p.67  
 Easy English! Top 50 Grammar Mistakes How to Avoid Them p.4   
