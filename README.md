@@ -12,7 +12,7 @@ The Plant Paradox p.40
 Don't Make Me Think Revisited p.67  
 Easy English! Top 50 Grammar Mistakes How to Avoid Them p.4  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
-Why We Get Sick p.101  
+Why We Get Sick p.106  
 # done
 Carnivore Code  
 Lies My Doctor Told Me  
