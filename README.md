@@ -6,8 +6,7 @@ https://trevorhastie.github.io/ISLR/
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
 # doing
-https://docs.djangoproject.com/en/3.1/intro/tutorial03/  
-https://reactjs.org/tutorial/tutorial.html#completing-the-game  
+https://docs.djangoproject.com/en/3.1/intro/tutorial03/    
 The Plant Paradox p.40      
 Don't Make Me Think Revisited p.67  
 Easy English! Top 50 Grammar Mistakes How to Avoid Them p.4  
