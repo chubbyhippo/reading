@@ -11,7 +11,7 @@ The Plant Paradox p.40
 Don't Make Me Think Revisited p.67  
 Easy English! Top 50 Grammar Mistakes How to Avoid Them p.4  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
-Python Data Structures and Algorithm p.12  
+Python Data Structures and Algorithm p.26  
 Why We Get Sick p.129  
 # done
 Carnivore Code  
