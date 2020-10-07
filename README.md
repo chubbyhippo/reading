@@ -16,7 +16,6 @@ Why We Get Sick p.129
 # done
 Carnivore Code  
 Lies My Doctor Told Me  
-https://flexboxfroggy.com/   
 # on hold
 C++ Primer 5th Edition p.75  
 A Tour of C++ p.79  
