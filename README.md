@@ -12,7 +12,6 @@ Don't Make Me Think Revisited p.67
 Easy English! Top 50 Grammar Mistakes How to Avoid Them p.4  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 Python Data Structures and Algorithm p.43  
-Why We Get Sick p.196  
 # done
 Carnivore Code  
 Lies My Doctor Told Me  
