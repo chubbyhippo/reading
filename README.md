@@ -15,6 +15,7 @@ The Plant Paradox
 Carnivore Code  
 Lies My Doctor Told Me  
 Why We Get Sick  
+Don't Make Me Think  
 # on hold
 C++ Primer 5th Edition p.75  
 A Tour of C++ p.79  
