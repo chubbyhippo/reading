@@ -6,8 +6,7 @@ https://trevorhastie.github.io/ISLR/
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
 # doing
-https://docs.djangoproject.com/en/3.1/intro/tutorial03/    
-Don't Make Me Think Revisited p.256  
+https://docs.djangoproject.com/en/3.1/intro/tutorial03/  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 Python Data Structures and Algorithm p.43  
 # done
