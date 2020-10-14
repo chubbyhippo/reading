@@ -9,7 +9,7 @@ https://www.kaggle.com/learn/overview
 https://docs.djangoproject.com/en/3.1/intro/tutorial03/  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 Python Data Structures and Algorithm p.43  
-The Wim Hof Method p.23  
+The Wim Hof Method p.35   
 # done
 The Plant Paradox  
 Carnivore Code  
