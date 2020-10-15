@@ -10,6 +10,7 @@ https://docs.djangoproject.com/en/3.1/intro/tutorial03/
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 https://flutter.dev/docs/codelabs/implicit-animations#shape-shifting-starter-code  
 The Wim Hof Method p.48  
+40 Algorithms Every Programmer Should Know  
 # done
 The Plant Paradox  
 Carnivore Code  
