@@ -9,7 +9,6 @@ https://www.kaggle.com/learn/overview
 https://docs.djangoproject.com/en/3.1/intro/tutorial03/  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 https://flutter.dev/docs/codelabs/implicit-animations#shape-shifting-starter-code  
-Python Data Structures and Algorithm p.43  
 The Wim Hof Method p.48  
 # done
 The Plant Paradox  
