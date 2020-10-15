@@ -8,6 +8,7 @@ https://www.kaggle.com/learn/overview
 # doing
 https://docs.djangoproject.com/en/3.1/intro/tutorial03/  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
+https://flutter.dev/docs/codelabs/implicit-animations  
 Python Data Structures and Algorithm p.43  
 The Wim Hof Method p.48  
 # done
