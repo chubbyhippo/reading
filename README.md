@@ -8,7 +8,7 @@ https://www.kaggle.com/learn/overview
 # doing
 https://docs.djangoproject.com/en/3.1/intro/tutorial03/  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
-https://flutter.dev/docs/codelabs/implicit-animations#shape-shifting-starter-code  
+https://flutter.dev/docs/development/ui/animations/tutorial  
 The Wim Hof Method p.48  
 40 Algorithms Every Programmer Should Know p.19  
 # done
