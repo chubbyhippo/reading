@@ -9,6 +9,7 @@ https://www.kaggle.com/learn/overview
 https://docs.djangoproject.com/en/3.1/intro/tutorial03/  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 https://flutter.dev/docs/development/ui/animations/tutorial  
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Screen.html#Screen  
 The Wim Hof Method p.48  
 40 Algorithms Every Programmer Should Know p.19  
 # done
