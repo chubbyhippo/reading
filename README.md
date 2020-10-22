@@ -9,7 +9,7 @@ https://www.kaggle.com/learn/overview
 https://docs.djangoproject.com/en/3.1/intro/tutorial03/#write-views-that-actually-do-something  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 https://flutter.dev/docs/development/ui/animations/tutorial  
-The Wim Hof Method p.48  
+The Wim Hof Method p.53  
 40 Algorithms Every Programmer Should Know p.19  
 # done
 The Plant Paradox  
