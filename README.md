@@ -6,7 +6,7 @@ https://trevorhastie.github.io/ISLR/
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
 # doing
-https://docs.djangoproject.com/en/3.1/intro/tutorial03/#write-views-that-actually-do-something  
+https://docs.djangoproject.com/en/3.1/intro/tutorial04/  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 https://flutter.dev/docs/development/ui/animations/tutorial  
 The Wim Hof Method p.92  
