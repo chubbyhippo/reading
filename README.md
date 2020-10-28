@@ -6,6 +6,8 @@ https://trevorhastie.github.io/ISLR/
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
 https://docs.spring.io/spring-boot/docs/2.3.4.RELEASE/reference/pdf/spring-boot-reference.pdf  
+The Big Fat Surprise  
+The Carnivore Diet Handbook  
 # doing
 https://docs.djangoproject.com/en/3.1/intro/tutorial04/  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
