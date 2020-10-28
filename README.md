@@ -13,8 +13,7 @@ https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articl
 https://flutter.dev/docs/development/ui/animations/tutorial  
 The Wim Hof Method p.92  
 40 Algorithms Every Programmer Should Know p.19  
-Spring in Action p.34  
-https://docs.spring.io/spring-boot/docs/2.3.4.RELEASE/reference/pdf/spring-boot-reference.pdf p.147  
+Spring in Action p.34   
 # done
 The Plant Paradox  
 Carnivore Code  
