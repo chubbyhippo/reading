@@ -19,6 +19,7 @@ The Plant Paradox
 Carnivore Code  
 Lies My Doctor Told Me  
 Why We Get Sick  
+The Carnivore Diet  
 Don't Make Me Think  
 # on hold
 Building Microservices p.80  
