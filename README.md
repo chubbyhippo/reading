@@ -1,6 +1,4 @@
 # to do    
-Monolith to Microservices  
-Building Event-Driven Microservices  
 A Hands-On Introduction to Data Science by Chirag Shah  
 https://trevorhastie.github.io/ISLR/  
 https://mml-book.github.io/  
@@ -13,6 +11,7 @@ https://flutter.dev/docs/development/ui/animations/tutorial
 The Wim Hof Method p.92  
 40 Algorithms Every Programmer Should Know p.19  
 Spring in Action p.40    
+https://livebook.manning.com/book/junit-in-action-third-edition/chapter-1/v-6/89
 # done
 The Plant Paradox  
 Carnivore Code  
@@ -20,5 +19,3 @@ Lies My Doctor Told Me
 Why We Get Sick  
 The Carnivore Diet  
 Don't Make Me Think  
-# on hold
-Building Microservices p.80  
