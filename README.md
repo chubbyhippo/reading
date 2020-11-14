@@ -9,7 +9,7 @@ The Alzheimer's Antidote
 https://docs.djangoproject.com/en/3.1/intro/tutorial04/  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 https://flutter.dev/docs/development/ui/animations/tutorial  
-The Wim Hof Method p.92  
+The Wim Hof Method p.102  
 40 Algorithms Every Programmer Should Know p.19   
 # done
 The Plant Paradox  
