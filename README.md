@@ -6,6 +6,7 @@ https://www.kaggle.com/learn/overview
 The Big Fat Surprise  
 The Alzheimer's Antidote  
 # doing
+https://kubernetes.io/docs/home/  
 https://docs.djangoproject.com/en/3.1/intro/tutorial04/  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 https://flutter.dev/docs/development/ui/animations/tutorial  
