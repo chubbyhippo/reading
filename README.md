@@ -10,6 +10,7 @@ https://kubernetes.io/docs/home/
 https://docs.djangoproject.com/en/3.1/intro/tutorial04/  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 https://flutter.dev/docs/development/ui/animations/tutorial  
+https://livebook.manning.com/book/junit-in-action-third-edition/chapter-20/v-6/79  
 The Wim Hof Method p.102  
 40 Algorithms Every Programmer Should Know p.19   
 # done
