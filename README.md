@@ -19,5 +19,5 @@ Carnivore Code
 Lies My Doctor Told Me  
 Why We Get Sick  
 The Carnivore Diet  
-Don't Make Me Think  
-JUnit in Action: 3rd Edition   
+Don't Make Me Think, Revisited  
+JUnit in Action, 3rd Edition   
