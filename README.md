@@ -1,5 +1,6 @@
 # to do    
 A Hands-On Introduction to Data Science by Chirag Shah  
+The Hundred-Page Machine Learning Book  
 https://trevorhastie.github.io/ISLR/  
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
