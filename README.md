@@ -11,7 +11,6 @@ https://kubernetes.io/docs/home/
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 https://flutter.dev/docs/development/ui/animations/tutorial    
 The Wim Hof Method p.102  
-40 Algorithms Every Programmer Should Know p.19   
 # done
 The Plant Paradox  
 Carnivore Code  
