@@ -10,7 +10,7 @@ The Alzheimer's Antidote
 https://kubernetes.io/docs/home/  
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 https://flutter.dev/docs/development/ui/animations/tutorial    
-The Wim Hof Method p.108  
+The Wim Hof Method p.109  
 https://livebook.manning.com/book/spring-microservices-in-action-second-edition/chapter-10/v-7/28  
 # done
 The Plant Paradox  
