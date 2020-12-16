@@ -4,6 +4,7 @@ The Hundred-Page Machine Learning Book
 https://trevorhastie.github.io/ISLR/  
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
+https://www.statisticsdonewrong.com/  
 The Big Fat Surprise  
 The Alzheimer's Antidote  
 # doing
