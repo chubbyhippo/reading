@@ -11,6 +11,7 @@ The Alzheimer's Antidote
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 https://flutter.dev/docs/development/ui/animations/tutorial    
 The Wim Hof Method p.109  
+https://kubernetes.io/docs/tutorials/kubernetes-basics/  
 # done
 The Plant Paradox  
 Carnivore Code  
