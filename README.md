@@ -12,6 +12,7 @@ https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articl
 https://flutter.dev/docs/development/ui/animations/tutorial    
 The Wim Hof Method p.109  
 https://kubernetes.io/docs/tutorials/kubernetes-basics/  
+https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/  
 # done
 The Plant Paradox  
 Carnivore Code  
