@@ -10,7 +10,7 @@ The Alzheimer's Antidote
 # doing
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 https://flutter.dev/docs/development/ui/animations/tutorial    
-The Wim Hof Method p.123    
+The Wim Hof Method p.140    
 https://kubernetes.io/docs/tutorials/kubernetes-basics/  
 https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/  
 # done
