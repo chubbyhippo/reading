@@ -10,7 +10,6 @@ The Alzheimer's Antidote
 # doing
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
 https://flutter.dev/docs/development/ui/animations/tutorial    
-The Wim Hof Method p.145    
 https://kubernetes.io/docs/tutorials/kubernetes-basics/  
 https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/  
 # done
@@ -19,5 +18,6 @@ Carnivore Code
 Lies My Doctor Told Me  
 Why We Get Sick  
 The Carnivore Diet  
+The Wim Hof Method  
 Don't Make Me Think, Revisited  
 JUnit in Action, 3rd Edition   
