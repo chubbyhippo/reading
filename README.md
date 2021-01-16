@@ -13,7 +13,7 @@ https://flutter.dev/docs/development/ui/animations/tutorial
 https://kubernetes.io/docs/tutorials/kubernetes-basics/  
 https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/  
 Beginning Perl Programming p.57  
-Reactive Spring section 3.6
+Reactive Spring section 3.8
 # done
 The Plant Paradox  
 Carnivore Code  
