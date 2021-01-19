@@ -12,7 +12,7 @@ https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articl
 https://flutter.dev/docs/development/ui/animations/tutorial    
 https://kubernetes.io/docs/tutorials/kubernetes-basics/  
 https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/  
-Beginning Perl Programming p.57  
+Beginning Perl Programming p.70  
 Reactive Spring section 5.3
 # done
 The Plant Paradox  
