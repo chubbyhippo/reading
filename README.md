@@ -23,4 +23,5 @@ The Carnivore Diet
 The Wim Hof Method  
 Don't Make Me Think, Revisited  
 Clean Code  
+The Clean Coder  
 JUnit in Action, 3rd Edition   
