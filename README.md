@@ -5,7 +5,6 @@ https://trevorhastie.github.io/ISLR/
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
 https://www.statisticsdonewrong.com/  
-The Big Fat Surprise  
 The Alzheimer's Antidote  
 # doing
 https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
@@ -13,7 +12,8 @@ https://flutter.dev/docs/development/ui/animations/tutorial
 https://kubernetes.io/docs/tutorials/kubernetes-basics/  
 https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/  
 Beginning Perl Programming p.70  
-Reactive Spring section 5.3
+Reactive Spring section 7.7  
+The Big Fat Surprise  
 # done
 The Plant Paradox  
 Carnivore Code  
