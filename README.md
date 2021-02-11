@@ -6,9 +6,7 @@ https://mml-book.github.io/
 https://www.kaggle.com/learn/overview  
 https://www.statisticsdonewrong.com/  
 The Alzheimer's Antidote  
-# doing
-https://flutter.dev/docs/development/ui/animations#codelabs-tutorials-and-articles  
-https://flutter.dev/docs/development/ui/animations/tutorial    
+# doing 
 Beginning Perl Programming p.70  
 Reactive Spring section 7.7  
 The Big Fat Surprise  
