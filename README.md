@@ -6,6 +6,8 @@ https://mml-book.github.io/
 https://www.kaggle.com/learn/overview  
 https://www.statisticsdonewrong.com/  
 The Alzheimer's Antidote  
+Clean Agile  
+Clean Architecture
 # doing 
 Beginning Perl Programming p.70  
 Reactive Spring section 7.7  
