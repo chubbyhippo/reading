@@ -12,6 +12,7 @@ Clean Architecture
 Beginning Perl Programming p.70  
 Reactive Spring section 7.7  
 The Big Fat Surprise  
+Java OOP Done Right
 # done
 The Plant Paradox  
 Carnivore Code  
