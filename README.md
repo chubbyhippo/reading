@@ -12,7 +12,6 @@ Clean Architecture
 Beginning Perl Programming p.70  
 Reactive Spring section 7.7  
 The Big Fat Surprise  
-Java OOP Done Right p. 162  
 1.06.00
 # done
 The Plant Paradox  
@@ -26,3 +25,4 @@ Clean Code
 The Clean Coder  
 Effective Java, 3rd Edition  
 JUnit in Action, 3rd Edition   
+Java OOP Done Right
