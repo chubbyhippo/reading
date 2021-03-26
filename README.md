@@ -12,7 +12,8 @@ Clean Architecture
 Beginning Perl Programming p.70  
 Reactive Spring section 7.7  
 The Big Fat Surprise  
-1.06.00
+1.06.00  
+https://youtu.be/LfbU5xuR7Ck?t=4113
 # done
 The Plant Paradox  
 Carnivore Code  
