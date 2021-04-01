@@ -8,12 +8,12 @@ https://www.statisticsdonewrong.com/
 The Alzheimer's Antidote  
 Clean Agile  
 Clean Architecture  
-Continuous Delivery Pipelines
 # doing 
 Beginning Perl Programming p.70  
 Reactive Spring section 7.7  
 The Big Fat Surprise  
 1.06.00  
+Continuous Delivery Pipelines p. 48  
 # done
 The Plant Paradox  
 Carnivore Code  
