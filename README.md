@@ -13,7 +13,7 @@ Beginning Perl Programming p.70
 Reactive Spring section 7.7  
 The Big Fat Surprise  
 1.06.00  
-Continuous Delivery Pipelines p. 48  
+Continuous Delivery Pipelines p. 80  
 # done
 The Plant Paradox  
 Carnivore Code  
