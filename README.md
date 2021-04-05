@@ -12,8 +12,7 @@ Clean Architecture
 Beginning Perl Programming p.70  
 Reactive Spring section 7.7  
 The Big Fat Surprise  
-1.06.00  
-Continuous Delivery Pipelines p. 80  
+
 # done
 The Plant Paradox  
 Carnivore Code  
@@ -27,3 +26,4 @@ The Clean Coder
 Effective Java, 3rd Edition  
 JUnit in Action, 3rd Edition   
 Java OOP Done Right
+Continuous Delivery Pipelines  
