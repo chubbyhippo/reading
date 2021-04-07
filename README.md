@@ -8,12 +8,11 @@ https://www.statisticsdonewrong.com/
 The Alzheimer's Antidote  
 Clean Agile  
 Clean Architecture  
-Accelerate  
 # doing 
 Beginning Perl Programming p.70  
 Reactive Spring section 7.7  
 The Big Fat Surprise  
-
+Accelerate p.36  
 # done
 The Plant Paradox  
 Carnivore Code  
