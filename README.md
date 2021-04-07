@@ -26,5 +26,5 @@ Clean Code
 The Clean Coder  
 Effective Java, 3rd Edition  
 JUnit in Action, 3rd Edition   
-Java OOP Done Right
+Java OOP Done Right  
 Continuous Delivery Pipelines  
