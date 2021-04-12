@@ -10,7 +10,7 @@ Clean Agile
 Clean Architecture  
 # doing 
 Beginning Perl Programming p.70  
-Reactive Spring section 7.7  
+Reactive Spring section 8  
 The Big Fat Surprise  
 Accelerate p.92  
 # done
