@@ -12,7 +12,7 @@ Clean Architecture
 Beginning Perl Programming p.70  
 Reactive Spring section 9  
 The Big Fat Surprise  
-Accelerate p.92  
+Accelerate p.97  
 # done
 The Plant Paradox  
 Carnivore Code  
