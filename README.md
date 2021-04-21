@@ -12,7 +12,6 @@ Clean Architecture
 Beginning Perl Programming p.70  
 Reactive Spring section 9  
 The Big Fat Surprise  
-Accelerate p.189  
 # done
 The Plant Paradox  
 Carnivore Code  
@@ -27,3 +26,4 @@ Effective Java, 3rd Edition
 JUnit in Action, 3rd Edition   
 Java OOP Done Right  
 Continuous Delivery Pipelines  
+Accelerate  
