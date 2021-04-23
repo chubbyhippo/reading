@@ -9,6 +9,7 @@ The Alzheimer's Antidote
 Clean Agile  
 Clean Architecture  
 # doing 
+https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
 Beginning Perl Programming p.70  
 Reactive Spring section 9  
 The Big Fat Surprise  
