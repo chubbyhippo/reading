@@ -11,7 +11,7 @@ Clean Architecture
 # doing 
 The Software Craftsman p.57    
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
-Atomic Kotlin p.157 summary 2, ex 6      
+Atomic Kotlin p.157 summary 2, ex 7  
 Reactive Spring section 9  
 The Big Fat Surprise  
 # done
