@@ -9,7 +9,7 @@ The Alzheimer's Antidote
 Clean Agile  
 Clean Architecture  
 # doing 
-The Software Craftsman p.95  
+The Software Craftsman p.107  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
 Atomic Kotlin p.197   
 Reactive Spring section 9  
