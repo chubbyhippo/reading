@@ -8,7 +8,7 @@ https://www.statisticsdonewrong.com/
 The Alzheimer's Antidote   
 Clean Architecture  
 # doing 
-Clean Agile p.14  
+Clean Agile p.35  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
 Atomic Kotlin p.201     
 Reactive Spring section 9  
