@@ -10,7 +10,7 @@ Clean Architecture
 # doing 
 Clean Agile p.50  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
-Atomic Kotlin p.209     
+Atomic Kotlin p.214     
 Reactive Spring section 9  
 The Big Fat Surprise  
 # done
