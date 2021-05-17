@@ -7,6 +7,7 @@ https://www.kaggle.com/learn/overview
 https://www.statisticsdonewrong.com/  
 The Alzheimer's Antidote   
 Clean Architecture  
+Infrastructure as Code  
 # doing 
 Clean Agile p.78  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
