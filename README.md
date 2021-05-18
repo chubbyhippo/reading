@@ -11,7 +11,7 @@ Infrastructure as Code
 # doing 
 Clean Agile p.108  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
-Atomic Kotlin p.228     
+Atomic Kotlin p.234     
 Reactive Spring section 9  
 The Big Fat Surprise  
 # done
