@@ -9,7 +9,7 @@ The Alzheimer's Antidote
 Clean Architecture  
 Infrastructure as Code  
 # doing 
-Clean Agile p.91  
+Clean Agile p.108  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
 Atomic Kotlin p.225     
 Reactive Spring section 9  
