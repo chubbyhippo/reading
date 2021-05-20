@@ -5,11 +5,10 @@ https://trevorhastie.github.io/ISLR/
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
 https://www.statisticsdonewrong.com/  
-The Alzheimer's Antidote   
-Clean Architecture  
+The Alzheimer's Antidote  
 Infrastructure as Code  
 # doing 
-Clean Agile p.148  
+Clean Architecture  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
 Atomic Kotlin p.260     
 Reactive Spring section 9  
@@ -30,3 +29,4 @@ Java OOP Done Right
 Continuous Delivery Pipelines  
 Accelerate  
 The Software Craftsman  
+Clean Agile  
