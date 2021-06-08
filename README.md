@@ -8,6 +8,7 @@ https://www.statisticsdonewrong.com/
 The Alzheimer's Antidote  
 Infrastructure as Code  
 # doing 
+Bootstrapping Microservices with Docker, Kubernetes, and Terraform p.10  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
 Atomic Kotlin p.299     
 Reactive Spring section 9  
