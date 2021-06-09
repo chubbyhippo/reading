@@ -9,7 +9,7 @@ The Alzheimer's Antidote
 Infrastructure as Code  
 # doing 
 Bootstrapping Microservices with Docker, Kubernetes, and Terraform p.20  
-Cyberjutsu p.15  
+Cyberjutsu p.19  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
 Atomic Kotlin p.308     
 Reactive Spring section 9  
