@@ -31,4 +31,5 @@ Continuous Delivery Pipelines
 Accelerate  
 The Software Craftsman  
 Clean Agile  
-Clean Architecture
+Clean Architecture  
+Spring Microservices in Action, 2nd Edition  
