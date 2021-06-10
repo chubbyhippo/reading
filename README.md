@@ -7,7 +7,6 @@ https://www.kaggle.com/learn/overview
 https://www.statisticsdonewrong.com/  
 The Alzheimer's Antidote  
 # doing 
-Infrastructure as Code, 2nd Edition   
 Bootstrapping Microservices with Docker, Kubernetes, and Terraform p.20  
 Cyberjutsu p.19  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
