@@ -9,7 +9,7 @@ The Alzheimer's Antidote
 # doing 
 Cyberjutsu p.19  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
-Atomic Kotlin p.308     
+Atomic Kotlin p.310     
 Reactive Spring section 9  
 The Big Fat Surprise  
 # done
