@@ -10,7 +10,7 @@ The Big Fat Surprise
 # doing 
 How Linux Works, 3rd Edition  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
-Atomic Kotlin p.314  
+Atomic Kotlin p.320  
 # done
 The Plant Paradox  
 Carnivore Code  
