@@ -6,12 +6,11 @@ https://mml-book.github.io/
 https://www.kaggle.com/learn/overview  
 https://www.statisticsdonewrong.com/  
 The Alzheimer's Antidote  
+The Big Fat Surprise
 # doing 
-Cyberjutsu p.19  
+How Linux Works, 3rd Edition  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
-Atomic Kotlin p.314     
-Reactive Spring section 9  
-The Big Fat Surprise  
+Atomic Kotlin p.314  
 # done
 The Plant Paradox  
 Carnivore Code  
@@ -31,3 +30,4 @@ The Software Craftsman
 Clean Agile  
 Clean Architecture  
 Spring Microservices in Action, 2nd Edition  
+Reactive Spring
