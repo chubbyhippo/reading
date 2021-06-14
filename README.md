@@ -8,7 +8,7 @@ https://www.statisticsdonewrong.com/
 The Alzheimer's Antidote  
 The Big Fat Surprise
 # doing 
-How Linux Works, 3rd Edition p.5  
+How Linux Works, 3rd Edition p.14  
 https://livebook.manning.com/book/modern-java-in-action/chapter-2/8  
 Atomic Kotlin p.346  
 # done
