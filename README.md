@@ -5,18 +5,10 @@ https://trevorhastie.github.io/ISLR/
 https://mml-book.github.io/  
 https://www.kaggle.com/learn/overview  
 https://www.statisticsdonewrong.com/  
-The Alzheimer's Antidote  
-The Big Fat Surprise
 # doing 
 How Linux Works, 3rd Edition p.14  
 Atomic Kotlin p.358  
 # done
-The Plant Paradox  
-Carnivore Code  
-Lies My Doctor Told Me  
-Why We Get Sick  
-The Carnivore Diet  
-The Wim Hof Method  
 Don't Make Me Think, Revisited  
 Clean Code  
 The Clean Coder  
